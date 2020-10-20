@@ -16,4 +16,7 @@
     "qweb": ["static/src/xml/*.xml"],
     "development_status": "stable",
     "maintainers": ["dhongu"],
+    "cloc_exclude": [
+        "./**/*",
+    ],
 }
